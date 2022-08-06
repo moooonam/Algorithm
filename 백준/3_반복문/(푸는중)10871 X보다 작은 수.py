@@ -5,5 +5,5 @@ re = []
 for i in my_list:
     if i<X:
         re.append(i)
-b = ' '.join(re)
+b = ' '.join(map(str,re))
 print(b)
