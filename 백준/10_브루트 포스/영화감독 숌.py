@@ -15,4 +15,14 @@ else:
         if count == N:
             break
     print(num)    
+# 왜 내껀 안될가
 
+
+# 구글링 답
+# N = int(input())
+# movie = 666
+# while N:
+#     if "666" in str(movie):
+#         N -= 1
+#     movie += 1
+# print(movie - 1)
